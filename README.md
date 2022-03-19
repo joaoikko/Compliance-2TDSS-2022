@@ -1,2 +1,3 @@
 # Compliance-2TDSS-2022
-Projeto Compliance
+Projeto Compliance & Quality Assurance
+Uso de GitHub
